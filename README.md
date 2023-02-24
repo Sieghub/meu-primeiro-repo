@@ -4,3 +4,10 @@ Repositorio criado na aula de PI
 
 - pão
 - macarrão
+- molho de tomato 
+- carne moida 
+- batata
+- sorvete
+- pizza
+- frango
+- coca-cola
